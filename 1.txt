@@ -1,0 +1,3 @@
+Un documento de ejemplo.
+Esta es la primera versión.
+Le estoy cambiando algo a este archivo después del primer commit.
